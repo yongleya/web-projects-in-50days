@@ -52,7 +52,7 @@
 * 47	Testimonial Box Switcher	Live Demo
 * 48	Random Image Feed	Live Demo
 * 49	Todo List	Live Demo
-* 50	Insect Catch Game	[Live Demo](
+* 50	Insect Catch Game	Live Demo
 
 ## 网址来源 
 #### https://gitee.com/zyxbj/web-projects
