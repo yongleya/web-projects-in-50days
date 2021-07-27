@@ -10,6 +10,6 @@ window.onload=function () {
         if (times==31){
             clearInterval(my_var)
         }
-    },50)
+    },100)
 
 }
