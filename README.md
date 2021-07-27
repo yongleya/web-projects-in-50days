@@ -7,9 +7,9 @@
 * 02	[Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps) | [Live Demo](https://50projects50days.com/projects/progress-steps/)
 * 03	Rotating Navigation Animation | Live Demo
 * 04	[Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search) | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)
-* 05	Blurry Loading | Live Demo
-* 06	Scroll Animation | Live Demo
-* 07	Split Landing Page | Live Demo
+* 05	[Blurry Loading](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading) | [Live Demo](https://50projects50days.com/projects/blurry-loading/)
+* 06	[Scroll Animation](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation) | [Live Demo](https://50projects50days.com/projects/blurry-loading/)
+* 07	[Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/)
 * 08	Form Wave | Live Demo
 * 09	Sound Board | Live Demo
 * 10	Dad Jokes | Live Demo
