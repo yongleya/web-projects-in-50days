@@ -40,7 +40,7 @@
 
 .right{
     display: flex;
-    justify-content: center;
+    justify-content:center;
     position: absolute;
     right: 0;
     height: 100vh;
@@ -93,8 +93,8 @@ h2{
     cursor: pointer;
 }
 .left .btn:hover{
-    background-color: #001f9c;
-    border-color:  #001f9c;
+    background-color: #0064d2;
+    border-color:  #0064d2;
 }
 .right .btn:hover{
     background-color: #ff7979;
