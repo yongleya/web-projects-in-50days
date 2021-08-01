@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #4682b4;
+    font-family: 'Muli', sans-serif;
+}
+
+.container{
+    background-color: rgba(0,0,0,0.4);
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: #fcfcfc;
+    font-size: 30px;
+    font-weight: bold;
+    /*margin: 30px 0;*/
+}
+span{
+    padding: 0;
+    margin: 0;
+    float: left;
+    transition-duration: 0.2s;
+}
+.user, .pwd{
+    position: relative;
+    width: 300px;
+    height: 50px;
+    margin: 50px 0;
+    /*background-color: #9d84f8;*/
+}
+.user label, .pwd label{
+    position: absolute;
+    transform: translateY(0px);
+    font-size: 18px;
+    top: 10px;
+    color: white;
+}
+.user input,.pwd input{
+    border: none;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    outline: none;
+}
+.user::before, .pwd::before{
+    content: "";
+    width: 300px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    border-radius: 1.5px;
+}
+.active::before{
+    background-color: #4682b4;
+}
+.active span{
+    transform: translateY(-30px);
+}
+.active label{
+    color: #4682b4;
+}
+
+#login{
+    display: block;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #add8e6;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+#login:active{
+    font-size: 16px;
+    letter-spacing: 1px;
+    transform: scale(0.95);
+}
+
+.register{
+    margin-top: 30px;
+    color: white;
+}
+.register a{
+    text-decoration: none;
+    color: #add8e6;
+}
